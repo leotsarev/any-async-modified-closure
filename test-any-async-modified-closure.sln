@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-any-async-modified-closure", "test-any-async-modified-closure\test-any-async-modified-closure.csproj", "{2FD120B4-1F4D-4F9E-8296-7AB030BB8BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD120B4-1F4D-4F9E-8296-7AB030BB8BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD120B4-1F4D-4F9E-8296-7AB030BB8BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD120B4-1F4D-4F9E-8296-7AB030BB8BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD120B4-1F4D-4F9E-8296-7AB030BB8BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEE191E-EA24-4EFC-B3CE-0C0CDB5B4C61}
+	EndGlobalSection
+EndGlobal
